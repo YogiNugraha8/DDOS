@@ -9,7 +9,7 @@ $git clone https://github.com/YogiNugraha8/DDOS
 
 $cd DDOS
 
-$chmod +x DDOS.py
+$chmod +x *
 # Installation Linux
 $apt update && apt upgrade
 
@@ -19,6 +19,6 @@ $apt install git
 
 $git clone https://github.com/YogiNugraha8/DDOS
 
-$chmod +x DDOS.py
+$chmod +x *
 # Usage
 python2 DDOS.py
