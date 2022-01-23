@@ -19,6 +19,8 @@ $apt install git
 
 $git clone https://github.com/YogiNugraha8/DDOS
 
+$cd DDOS
+
 $chmod +x *
 # Usage
 python2 DDOS.py
